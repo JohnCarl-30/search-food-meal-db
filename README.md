@@ -1,3 +1,3 @@
 # React + Vite
 
-I just use the free api of mealdb.
+I just used the free api of mealdb.
